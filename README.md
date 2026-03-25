@@ -199,6 +199,27 @@ This project demonstrates the ability to build complex, high-performance fronten
 
 ---
 
+## Lighthouse Scores
+
+The application was audited using Google Lighthouse. Below are the results across all categories.
+
+### Overall Analysis
+![Overall Lighthouse Analysis](./public/screenshots/Ovrall_Analysis.png)
+
+### Performance
+![Performance Score](./public/screenshots/Prformance_Analysis.png)
+
+### Accessibility
+![Accessibility Score](./public/screenshots/Accessibility.png)
+
+### Best Practices
+![Best Practices Score](./public/screenshots/Best_Practices.png)
+
+### SEO
+![SEO Score](./public/screenshots/SEO.png)
+
+---
+
 ## Live Demo
 
 [(Deploy link here)](https://project-tracker-rho-ten.vercel.app/)
